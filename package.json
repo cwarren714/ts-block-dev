@@ -1,0 +1,17 @@
+{
+  "name": "wordpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "wp-scripts build",
+    "start": "wp-scripts start"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@wordpress/scripts": "^26.9.0",
+    "ts-loader": "^9.4.4",
+    "typescript": "^5.1.6"
+  }
+}

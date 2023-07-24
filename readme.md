@@ -1,0 +1,1 @@
+Boilerplate plugin config for TS Wordpress plugin development using the [@wordpress/scripts package](https://www.npmjs.com/package/@wordpress/scripts?activeTab=readme).
